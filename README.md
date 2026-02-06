@@ -95,10 +95,23 @@ To use Genymotion, you must create a **free user account**.
 4. Confirm your email via the verification link
 5. Log in and choose the **Personal Use** license
 
-![Creation of the account](https://github.com/user-attachments/assets/11dd32b3-52e5-4c30-9ca5-4ba90f9f8b48)
+![Create account](https://github.com/user-attachments/assets/11dd32b3-52e5-4c30-9ca5-4ba90f9f8b48)
 
 After logging in, you can start downloading and running virtual Android devices ✅
 
+## 📲 Step 3: Creating a Virtual Android Device
+
+After logging in, you can create your first virtual device.
+
+### Steps:
+1. In **Genymotion Desktop**, click on **Create Device**
+2. Choose **any device model** (the specific model is not important)
+3. Leave all other settings on their **default values**
+4. Click **Create** and wait for the setup to finish
+
+Once the process is complete, your virtual Android device will appear in the list and is ready to be started 🚀
+
+![Create device](https://github.com/user-attachments/assets/08f49958-6c51-4d03-ad5d-bc4310a72ac3)
 
 
 ✨ _Stay curious. Stay ethical. Stay secure._  
