@@ -113,5 +113,9 @@ Once the process is complete, your virtual Android device will appear in the lis
 
 ![Create device](https://github.com/user-attachments/assets/08f49958-6c51-4d03-ad5d-bc4310a72ac3)
 
+Once the device is created, it is launched inside **VirtualBox**.  
+Simply click the **Play ▶️ icon** next to the device in **Genymotion**, and the Android emulator will start automatically.
+
+
 
 ✨ _Stay curious. Stay ethical. Stay secure._  
