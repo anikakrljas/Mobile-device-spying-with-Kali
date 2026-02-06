@@ -54,7 +54,7 @@ This makes it ideal for:
 
 The first thing you need is the **Genymotion Desktop** application.
 
-(![Genymotion Home Page](https://github.com/user-attachments/assets/ec012b43-9900-4d64-a5af-4a47c152bc8d))
+![Genymotion Home Page](https://github.com/user-attachments/assets/ec012b43-9900-4d64-a5af-4a47c152bc8d)
 
 1. Go to the official Genymotion website  
 2. Download the **Desktop version** (not the cloud version)  
@@ -66,7 +66,7 @@ Genymotion supports:
 - 🍎 macOS
 
 #### 🔹 Operating System Selection
-(![Choose Operating System](https://github.com/user-attachments/assets/3dc09f71-8e9c-4547-92cc-02e64b0cd157))
+![Choose Operating System](https://github.com/user-attachments/assets/3dc09f71-8e9c-4547-92cc-02e64b0cd157)
 
 Make sure you select the installer that matches the operating system you are currently using.
 
@@ -83,6 +83,21 @@ You have **two options** during installation:
 > ⭐ For most users, installing Genymotion **together with VirtualBox** is the easiest and safest choice.
 
 ---
+
+## 🧾 Step 2: Creating a Genymotion Account
+
+To use Genymotion, you must create a **free user account**.
+
+### Steps:
+1. Open **Genymotion Desktop**
+2. Click **Sign in** → **Create an account**
+3. Enter your email and password
+4. Confirm your email via the verification link
+5. Log in and choose the **Personal Use** license
+
+![Creation of the account](https://github.com/user-attachments/assets/11dd32b3-52e5-4c30-9ca5-4ba90f9f8b48)
+
+After logging in, you can start downloading and running virtual Android devices ✅
 
 
 
